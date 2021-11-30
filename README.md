@@ -8,4 +8,4 @@ we will Regularly share implemented codes of each and every algorithms in this R
 
 Also we will upload some machine learning projects in this Repository. so, if you have any machine learning projects make a habit of contribution to this repository. It will be helpful for all.
 
-                                                                  Keep Learning together!!
+                                                          Keep Learning together!!
